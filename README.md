@@ -1,3 +1,5 @@
 # cloverwifi
 
-Clover Public Wi-Fi splash page
+Clover Public Wi-Fi splash page.
+
+
